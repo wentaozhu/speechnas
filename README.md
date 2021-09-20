@@ -32,4 +32,4 @@ network achieves an equal error rate (EER) of 1.02% on the standard test set of
 VoxCeleb1, which surpasses previous TDNN based state-of-the-art approaches by a
 large margin.
 
-![image info](./fig/performance_overview_v6.png)
+![image info](./performance_overview_v6.png)
