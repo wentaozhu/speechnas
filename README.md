@@ -14,7 +14,7 @@ Set up the environment for the reposity by
 # Check configuration
 Check configuration in `./config/`
 
-# infer
+# inference
 ```shell
 bash metric/metric_eer/auto_run.sh
 ```
