@@ -18,6 +18,13 @@ Check configuration in `./config/`
 ```shell
 bash metric/metric_eer/auto_run.sh
 ```
+
+# Update 10/26/2021
+You can download the 30-dimensional MFCCs without augmentation from the BaiduNetDisk Link: https://pan.baidu.com/s/1c1lAkAgjvj4k2zIYCm__qA  with password: ad44 and set the path https://github.com/wentaozhu/speechnas/blob/main/dataloader/voxceleb.py#L427 as speech_data_no_aug/csv_file 
+
+You can run inference and get the metric from https://github.com/wentaozhu/speechnas/tree/main/metric/metric_eer
+
+# Abstract
 Recently, x-vector has been a successful and popular approach for speaker
 verification, which employs a time delay neural network (TDNN) and statistics
 pooling to extract speaker characterizing embedding from variable-length
