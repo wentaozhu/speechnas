@@ -1,3 +1,7 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/speechnas-towards-better-trade-off-between/speaker-verification-on-voxceleb)](https://paperswithcode.com/sota/speaker-verification-on-voxceleb?p=speechnas-towards-better-trade-off-between)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/speechnas-towards-better-trade-off-between/speaker-verification-on-voxceleb1)](https://paperswithcode.com/sota/speaker-verification-on-voxceleb1?p=speechnas-towards-better-trade-off-between)
+
 # speechnas
 SpeechNAS-Better-Trade-off-between-Latency-and-Accuracy-for-Large-Scale-Speaker-Verification
 
